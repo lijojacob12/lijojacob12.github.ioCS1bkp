@@ -9,8 +9,14 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# The Simple Yet Awesome website
-## Note : The 6 lines of text above are the YAML tags
+# About Me
+## Lijo Jacob
 ### We will knit this RMD file to a html file next
-Then push index.html to the github.io.repo.  
-Test
+
+I live in Grapevine, Texas. My interests are doing Photography and spending time with my family.
+
+I am a Sr. Data Engineer at Amdocs in Dallas-Fort Worth Area, Texas.I am providing data engineering solutions and architectural recommendations to business-critical data science problems for our client, AT&T.
+
+I did my bachelor’s degree in Computer Science and Engineering from University of Kerala, India.
+
+### "The other tabs represent my work / analyses on craft beers in the US.  Please check them out!"
